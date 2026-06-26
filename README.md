@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**MannyOs/MannyOs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Manuel Chavez**, an incoming **Dominican University** freshman passionate about technology, game development, and cybersecurity.
 
-Here are some ideas to get you started:
+🎮 My long-term goal is to build games that people genuinely enjoy while pursuing a career in **Cybersecurity** and **Computer Science**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm up to
+
+* 🔭 Currently developing my own video game
+* 🌱 Learning more about game development, Swift, and cybersecurity
+* 🎯 Building projects to strengthen my programming and software development skills
+* 👯 Open to collaborating on game development and open-source projects
+* 💬 Feel free to ask me about my projects or what I'm currently learning
+* 📫 Reach me at: **[mschavezmanuel@gmail.com](mailto:mschavezmanul@gmail.com)**
+* ⚡ Fun fact: I started learning game development about **1.5 years ago** and have loved building ever since.
+
+> *"Every project is an opportunity to learn something new."*
